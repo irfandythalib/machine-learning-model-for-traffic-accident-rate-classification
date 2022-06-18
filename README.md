@@ -8,7 +8,7 @@ In row 2, you see the selection of columns that are used as attributes and label
 
 Testing and training data sharing method is 33%
 
-The algorithm used is:
+# The algorithm used:
 Neural network
 SVM
 Decision Tree
